@@ -1,4 +1,6 @@
-from union_find import Node, find, makeset, union, delete
+#from union_find import Node, find, makeset, union, delete
+from union_find_v2 import Node, find, makeset, union, delete
+
 import unittest
 
 class TestUnionFind(unittest.TestCase):
